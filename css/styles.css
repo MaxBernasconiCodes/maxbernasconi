@@ -1,0 +1,16 @@
+.wrapper{
+    display: grid;
+    grid-template-columns: 6rem auto;
+    grid-template-rows: 2rem auto;
+}
+nav{
+    
+    background-color: aquamarine;
+}
+.logo-wrapper{
+display: flex;
+}
+header{
+    
+    background-color: red;
+}
